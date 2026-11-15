@@ -1,3 +1,29 @@
+# strix
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源 AI 渗透测试工具，发现并修复应用漏洞。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <a href="https://strix.ai/">
     <img src="https://github.com/usestrix/.github/raw/main/imgs/cover.png" alt="Strix Banner" width="100%">
